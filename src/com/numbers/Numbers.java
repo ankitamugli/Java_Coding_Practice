@@ -3,8 +3,7 @@ package com.numbers;
 public class Numbers {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-//		29april	
+		
 //		wap to print the factorial of a given number
 		int num=5;
 		int sum=1;
@@ -13,43 +12,6 @@ public class Numbers {
 		}
 		System.out.println(sum);
 		}
+	}           //120
 
-//     120
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 
-	}
-
-}
