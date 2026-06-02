@@ -120,7 +120,3 @@ This repository helped in:
 Ankita Mugli
 
 GitHub: https://github.com/ankitamugli
-
-## License
-
-This project is intended for learning, practice, and educational purposes.
