@@ -1,122 +1,84 @@
-# Java Coding Practice
+# ☕ Java Coding Practice
 
-## Overview
+A collection of Java programming exercises and coding problems covering core Java concepts, data structures, algorithms, and problem-solving techniques.
 
-Java Coding Practice is a collection of Java programs created to strengthen programming skills and improve problem-solving abilities. This repository contains solutions to various coding problems, covering core Java concepts, object-oriented programming, collections, exception handling, Java 8 features, and more.
+## 📌 About
 
-## Features
+This repository contains Java practice programs created while learning and improving Java programming skills. The programs are organized by topic and include solutions to common coding challenges.
 
-* Core Java Programs
-* Object-Oriented Programming Examples
-* String Manipulation Programs
-* Array and Collection Programs
-* Exception Handling Examples
-* Java 8 Features (Streams, Lambda Expressions)
-* Pattern Programs
-* Interview Coding Questions
-* Logical and Mathematical Problems
+## 🚀 Topics Covered
 
-## Technologies Used
+* Java Basics
+* Variables and Data Types
+* Operators
+* Conditional Statements
+* Loops
+* Arrays
+* Strings
+* Methods
+* Object-Oriented Programming (OOP)
+* Collections Framework
+* HashMap
+* Exception Handling
+* Coding Challenges
+* LeetCode Practice
+
+## 📂 Project Structure
+
+```text
+src/
+│
+├── Hashmap/
+├── com/
+│   ├── arrays/
+│   ├── Arraysleetcode/
+│   ├── loops/
+│   └── ...
+└── module-info.java
+```
+
+## 🛠️ Technologies Used
 
 * Java
 * Eclipse IDE
 * Git & GitHub
 
-## Topics Covered
-
-### Core Java
-
-* Variables and Data Types
-* Operators
-* Conditional Statements
-* Loops
-* Methods
-* Constructors
-
-### Object-Oriented Programming
-
-* Classes and Objects
-* Inheritance
-* Polymorphism
-* Abstraction
-* Encapsulation
-
-### Collections Framework
-
-* ArrayList
-* LinkedList
-* HashSet
-* HashMap
-* TreeSet
-
-### Exception Handling
-
-* Try-Catch Blocks
-* Throws and Throw
-* Custom Exceptions
-
-### Java 8 Features
-
-* Lambda Expressions
-* Functional Interfaces
-* Streams API
-* Method References
-
-### Problem Solving
-
-* Number Programs
-* String Programs
-* Array Problems
-* Pattern Printing
-* Sorting Algorithms
-* Searching Algorithms
-
-## Project Structure
-
-Java_Coding_Practice
-│
-├── CoreJava
-├── OOPs
-├── Collections
-├── ExceptionHandling
-├── Java8
-├── Patterns
-├── Strings
-├── Arrays
-└── InterviewPrograms
-
-## How to Run
+## ▶️ How to Run
 
 1. Clone the repository:
-   git clone https://github.com/ankitamugli/Java_Coding_Practice.git
 
-2. Open the project in Eclipse IDE.
+```bash
+git clone https://github.com/ankitamugli/Java_Coding_Practice.git
+```
 
-3. Navigate to any Java file.
+2. Open the project in Eclipse or any Java IDE.
 
-4. Run the file as:
-   Run As → Java Application
+3. Navigate to the desired Java file.
 
-## Learning Outcomes
+4. Run the program.
 
-This repository helped in:
+## 📚 Learning Goals
 
-* Improving Java programming skills
-* Understanding OOP concepts deeply
-* Practicing coding interview questions
-* Learning Java 8 features
-* Building problem-solving abilities
+* Strengthen Java fundamentals
+* Improve problem-solving skills
+* Practice coding interview questions
+* Learn Data Structures and Algorithms
 
-## Future Improvements
+## 🤝 Contributing
 
-* Add Data Structures and Algorithms
-* Add Advanced Java Programs
-* Add Multithreading Examples
-* Add Spring Boot Practice Programs
-* Organize Programs by Difficulty Level
+Contributions are welcome.
 
-## Author
+1. Fork the repository
+2. Create a feature branch
+3. Commit your changes
+4. Push to GitHub
+5. Create a Pull Request
 
-Ankita Mugli
+## 👩‍💻 Author
 
-GitHub: https://github.com/ankitamugli
+**Ankita Mugli**
+
+* GitHub: https://github.com/ankitamugli
+
+
+If you find this repository helpful, please give it a star.
