@@ -1,20 +1,20 @@
-package leetcode;
+package com.Arraysleetcode;
 
 import java.util.Arrays;
 
-public class Solution {
+public class Twosum {
 	public static int[] twosum(int [] arr ,int target) {
-	int [] res =new int[2];
-	for(int i=0;i<arr.length-1;i++) {
-		for (int j=i+1;j<arr.length;j++) {
-			if(arr[i]+arr[j]==target) {
-				res[0]=i;
-				res[1]=j;
+		int [] res =new int[2];
+		for(int i=0;i<arr.length-1;i++) {
+			for (int j=i+1;j<arr.length;j++) {
+				if(arr[i]+arr[j]==target) {
+					res[0]=i;
+					res[1]=j;
+				}
 			}
 		}
-	}
-		return res;
-	}
+			return res;
+		}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -22,6 +22,7 @@ public class Solution {
 		int target=6;
 		int resc[]=twosum(arr,target);
 		System.out.println(Arrays.toString(resc));
+
 
 
 	}
