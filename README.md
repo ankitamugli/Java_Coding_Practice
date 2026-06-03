@@ -80,5 +80,3 @@ Contributions are welcome.
 
 * GitHub: https://github.com/ankitamugli
 
-
-If you find this repository helpful, please give it a star.
