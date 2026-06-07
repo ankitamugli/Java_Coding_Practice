@@ -47,6 +47,16 @@ public class infoArray3 {
 		}
 		System.out.println(min3);//-20
 
+			int[] arr3= {16,10,47,15,4,8};
+		int min4=Integer.MAX_VALUE;
+		for(int ele:arr) {
+			if(ele<min3) {
+				min4=ele;
+			}
+		}
+		System.out.println(min4);//
+
+
 	}
 
 }
