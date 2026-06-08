@@ -1,5 +1,5 @@
 package Hashmap;
-
+//count each element occurence in an array using hash map
 import java.util.HashMap;
 
 public class CountDuplicate {
