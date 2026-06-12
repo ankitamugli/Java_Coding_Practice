@@ -59,6 +59,3 @@ This repository is created for:
 - Learning Java 8 features
 - Preparing for technical interviews
 
-## Author
-
-Ankita Mugli
