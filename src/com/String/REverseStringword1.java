@@ -28,10 +28,9 @@ public class REverseStringword1 {
 			res+= reverse(word)+" ";
 		}
 		System.out.println(res);
-		
-
-		
-
 	}
 
 }
+//output
+//[dhee, coding, lab]
+//		 EehD GnidoC BaL 
