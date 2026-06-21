@@ -19,7 +19,5 @@ public class AntiClockWiseRotateArrayktimes {
 		}
 		System.out.println(Arrays.toString(arr));
 		}
-
-
 }
 
