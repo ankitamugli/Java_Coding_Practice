@@ -12,7 +12,6 @@ public class AnticlockWiseRotateArray {
 		System.out.println(Arrays.toString(arr));
 	}
 	
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int arr[]= {12,23,34,45,56};
