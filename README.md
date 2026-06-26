@@ -1,61 +1,80 @@
-# Java Coding Practice
+# ☕ Java Coding Practice
 
-This repository contains Java programming practice problems and solutions covering core Java concepts, Java 8 features, and coding interview questions.
+A collection of Java programming solutions for coding interview preparation and problem-solving practice.
 
-## Topics Covered
+This repository contains solutions to coding problems from platforms like HackerRank, LeetCode, and other programming practice websites. The goal is to improve problem-solving skills, strengthen Java fundamentals, and prepare for technical interviews.
 
-- Java Basics
-- OOP Concepts
+---
+
+## 📌 Topics Covered
+
 - Arrays
 - Strings
+- Loops
+- Conditional Statements
+- Functions
 - Collections Framework
-- Exception Handling
-- Multithreading
-- File Handling
-- Java 8 Features
-  - Lambda Expressions
-  - Stream API
-  - Functional Interfaces
-  - Optional Class
-  - Date and Time API
+- Matrix Problems
+- Sorting
+- Searching
+- Recursion
+- Pattern Programs
+- Basic Mathematics
+- HackerRank Solutions
+- LeetCode Solutions
 
-## Project Structure
+---
+
+## 📂 Repository Structure
 
 ```
-src/
-├── Arrays
-├── Strings
-├── Collections
-├── Stream
-├── Dateandtimeapi
-└── Other Java Programs
+Java_Coding_Practice/
+│
+├── Arrays/
+├── Strings/
+├── Matrix/
+├── Loops/
+├── Functions/
+├── Collections/
+├── HackerRank/
+├── LeetCode/
+└── README.md
 ```
 
-## Technologies Used
+---
+
+## 🚀 Technologies Used
 
 - Java
-- Eclipse IDE
-- Git
-- GitHub
+- JDK 8+
+- Eclipse IDE / IntelliJ IDEA
+- Git & GitHub
 
-## How to Run
+---
 
-1. Clone the repository:
+## 🎯 Purpose
 
-```bash
-git clone https://github.com/ankitamugli/Java_Coding_Practice.git
-```
+- Practice Java programming.
+- Improve logical thinking.
+- Prepare for coding interviews.
+- Learn Data Structures & Algorithms.
+- Maintain a collection of solved coding problems.
 
-2. Open the project in Eclipse or any Java IDE.
+---
 
-3. Run the desired Java file.
+## 📖 Sample Problems
 
-## Purpose
+- Compare the Triplets
+- Diagonal Difference
+- Simple Array Sum
+- Mini-Max Sum
+- Plus Minus
+- Staircase
+- Birthday Cake Candles
+- Time Conversion
+- Grading Students
+- Arrays and Strings
 
-This repository is created for:
+---
 
-- Improving Java programming skills
-- Practicing coding problems
-- Learning Java 8 features
-- Preparing for technical interviews
 
