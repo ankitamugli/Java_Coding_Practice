@@ -1,7 +1,7 @@
 package com.arrays;
 
 public class infoArray3 {
-
+//maximum array
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int[] arr= {-10,-20,-17,-15,-3,-9};
